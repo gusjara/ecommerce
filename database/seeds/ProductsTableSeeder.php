@@ -24,9 +24,9 @@ class ProductsTableSeeder extends Seeder
      	factory(ProductImage::class, 200)->create(); //creamos y guardamos 200 images
         */
 
-        $categories = factory(Category::class, 4)->create(); //creamos y guardamos 5 categorias
+        $categories = factory(Category::class, 3)->create(); //creamos y guardamos 5 categorias
         $categories->each(function ($c) { //iteramos c/categoria
-            $products = factory(Product::class, 5)->make(); //generamos 20 productos
+            $products = factory(Product::class, 2)->make(); //generamos 20 productos
             $c->products()->saveMany($products); //asociamos los 20 productos a c/categoria guardando en  DB
 
             $products->each(function ($p){ //iteramos cada producto

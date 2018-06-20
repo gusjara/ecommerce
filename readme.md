@@ -1,8 +1,8 @@
-## <p>Sistema de Pedidos Online</p>
+## <p>Sistema de Ecommerce</p>
 
 
 **Descripción:**
-Sistema web para gestión de pedidos en línea
+Sistema web para gestión de ecommerce basico sin pasarela de pagos. 
 
 **Tecnologías empleadas:**
 * Laravel 5.5
@@ -24,7 +24,6 @@ Sistema web para gestión de pedidos en línea
 
 
 **Instalación:**
-* git clone https://github.com/LuisFaax/PedidosEnLinea.git
 * Composer update
 * Crear base de datos MySQL
 * Renombrar el archivo .env.example a .env y configurar la conexión a MySQL

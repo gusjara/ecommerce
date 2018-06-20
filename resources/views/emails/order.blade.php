@@ -382,7 +382,7 @@
                                             <td class="headerContent">
                                             
                                             	<!-- // Begin Module: Standard Header Image \\ -->
-                                            	<img src="https://www.luisfax.com/resources/luisfax_bg.png" style="max-width:600px;" id="headerImage campaign-icon" mc:label="header_image" mc:edit="header_image" mc:allowdesigner mc:allowtext />
+                                            	<!-- <img src="https://www.luisfax.com/resources/luisfax_bg.png" style="max-width:600px;" id="headerImage campaign-icon" mc:label="header_image" mc:edit="header_image" mc:allowdesigner mc:allowtext /> -->
                                             	<!-- // End Module: Standard Header Image \\ -->
                                             
                                             </td>
@@ -491,12 +491,12 @@
                                                     <tr>
                                                         <td valign="top">
                                                             <div mc:edit="std_footer">
-																<em>Copyright &copy; <?php echo date('Y'); ?>; LuisFax, All rights reserved.</em>
+																<em>Copyright &copy; <?php echo date('Y'); ?>; El Gringo y La Negra, All rights reserved.</em>
 																
 																<br />
 																<strong>E-mail:</strong>
 																<br />
-																LuisFaax@gmail.com 
+																mail@mail.com 
                                                             </div>
                                                         </td>
                                                     </tr>

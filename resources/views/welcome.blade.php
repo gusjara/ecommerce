@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Bienvenido a App Shop')
+@section('title', "E-Commerce Deinfo Dev's")
 
 @section('body-class', 'landing-page')
 
@@ -29,10 +29,10 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                <h1 class="title">Bienvenidos Developers IT!</h1>
-                <h4>Realiza pedidos en línea y nosotros coordinamos la entrega.</h4>
+                <h1 class="title">Bienvenidos E-Commerce Deinfo Dev's!</h1>
+                <h4>Realiza pedidos en línea y coordina la entrega. (se puede agregar pasarela)</h4>
                 <br />
-                <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" class="btn btn-danger btn-raised btn-lg">
+                <a href="#" class="btn btn-danger btn-raised btn-lg">
                     <i class="fa fa-play"></i> ¿Cómo funciona?
                 </a>
             </div>
@@ -46,8 +46,9 @@
         <div class="section text-center section-landing">
             <div class="row">
                 <div class="col-md-8 col-md-offset-2">
-                    <h2 class="title">¿Por qué comprar en App Shop?</h2>
-                    <h5 class="description">Nuestra variedad de productos te permiten una elección perfecta, además de que manejamos los precios más accesibles del mercado. !Checa y Compara¡</h5>
+                    <h2 class="title">¿Por qué comprar en este E-Commerce?</h2>
+                    <h5 class="description">Aquí podes mostrar todos tus articulos, sin limite de productos, y especificando las categorias.
+                    Cada comprador puede ser un usuario de tu sistema. !Probalo y Compara¡</h5>
                 </div>
             </div>
 
@@ -59,7 +60,7 @@
                                 <i class="material-icons">chat</i>
                             </div>
                             <h4 class="info-title">Atención personalizada</h4>
-                            <p>Atendemos rápidamente cualquier duda a través de nuestro chat</p>
+                            <p>Atendemos rápidamente cualquier duda o modificaciones que necesites en el e-commerce, totalmente personalizable...</p>
                         </div>
                     </div>
                     <div class="col-md-4">

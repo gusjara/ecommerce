@@ -6,7 +6,7 @@
     <link rel="icon" type="image/png" href="../assets/img/favicon.png">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 
-    <title>@yield('title', 'Developers TI')</title>
+    <title>@yield('title', "E-Commerce | Deinfo Dev's")</title>
 
     <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
 
@@ -34,7 +34,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="{{ url('/') }}">Developers TI</a>
+                <a class="navbar-brand" href="{{ url('/') }}">E-Commerce Deinfo Dev's</a>
             </div>
 
             <div class="collapse navbar-collapse" id="navigation-example">
@@ -77,18 +77,18 @@
                         @endguest
 
                     <li>
-                        <a href="https://twitter.com/luisfaax" target="_blank" class="btn btn-simple btn-white btn-just-icon">
+                        <a href="#" target="_blank" class="btn btn-simple btn-white btn-just-icon">
                             <i class="fa fa-twitter"></i>
                         </a>
                     </li>
                     <li>
-                        <a href="https://www.facebook.com/luisfaax" target="_blank" class="btn btn-simple btn-white btn-just-icon">
+                        <a href="#" target="_blank" class="btn btn-simple btn-white btn-just-icon">
                             <i class="fa fa-facebook-square"></i>
                         </a>
                     </li>
                     <li>
                         @guest
-                         <a href="https://www.luisfax.com/b/" title="Visita mi blog" target="_blank" class="btn btn-simple btn-white btn-just-icon">
+                         <a href="#" title="Visita mi blog" target="_blank" class="btn btn-simple btn-white btn-just-icon">
                                 <i class="material-icons">web</i>
                             </a>
                         @else
@@ -128,8 +128,3 @@
     @yield('scripts')
     
 </html>
-
-
-
-
-

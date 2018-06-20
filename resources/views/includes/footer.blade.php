@@ -3,33 +3,33 @@
         <nav class="pull-left">
             <ul>
                 <li>
-                    <a href="https://www.luisfax.com/b">
+                    <a href="https://deinfodevs.com/#three">
                         ¿Necesitas ayuda con un proyecto?
                     </a>
                 </li>
                 <li>
-                    <a href="https://luisfax.com/b/">
+                    <a href="https://deinfodevs.com/#three">
                        Asesoría personalizada
                     </a>
                 </li>
                 <li>
-                    <a href="https://luisfax.com/b">
-                       Blog
+                    <a href="#">
+                       Legales
                     </a>
                 </li>
                 <li>
-                    <a href="https://www.luisfax.com/b">
-                        Proyectos libres y comerciales
+                    <a href="https://deinfodevs.com/">
+                        Proyectos comerciales
                     </a>
                 </li>
             </ul>
         </nav>
         <div class="copyright pull-right">
             <i class="fa fa-code"></i> 
-            <a href="https://www.luisfax.com/b">
-            Luis Fax                       
+            <a href="https://deinfodevs.com/">
+            Deinfo Dev's                      
                     </a>
-                    - Compartiendo líneas...
+                    - Desarrollos Web's...
         </div>
     </div>
 </footer>
